@@ -28,9 +28,7 @@ int main()
     // Function calling
     rec(0, 0, str);
     if (flag == 0)
-    {
         printf("Rejected\n");
-    }
     return 0;
 }
 // Terminal
