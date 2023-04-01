@@ -64,3 +64,10 @@ int main()
 
     return 0;
 }
+// Terminal
+
+// Enter the string: 0101011
+// Rejected
+
+// Enter the string: 0011
+// Accepted
