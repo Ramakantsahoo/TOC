@@ -66,7 +66,7 @@ int main()
 }
 // Terminal
 
-// Enter the string: 000111
+// Enter the string: 011
 // Accepted
 
 // Enter the string: 0001111
