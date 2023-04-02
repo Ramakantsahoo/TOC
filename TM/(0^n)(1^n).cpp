@@ -90,3 +90,10 @@ int main()
         cout<<"Rejected"<<endl;    
     return 0;
 }
+// Terminal
+
+// Enter the string: 0011
+// Accepted
+
+// Enter the string: 1010
+// Rejected
